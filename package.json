@@ -1,0 +1,13 @@
+{
+  "name": "osdusshor-press",
+  "repository": "https://github.com/kib357/osdusshorPress",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "compression": "^1.4.1",
+    "express": "^4.12.2"
+  },
+  "engine": "node >= 0.10.17",
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
